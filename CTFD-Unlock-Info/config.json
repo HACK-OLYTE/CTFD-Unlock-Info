@@ -1,0 +1,8 @@
+{
+    "name": "Unlock information",
+    "route": "/admin/plugins/ctfd-unlock-info",
+    "version": "1.0.0",
+    "title": "CTFD-Unlock-Info",
+    "description": "Plugin permettant d'afficher les requierements sur un challenge",
+    "author": "Hack'olyte"
+}
