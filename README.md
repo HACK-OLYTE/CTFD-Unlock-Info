@@ -53,7 +53,8 @@ Les indicateurs apparaîtront automatiquement sur tous les challenges ayant des 
 
 Voici un exemple de rendu du plugin :
 
-![Exemple d'utilisation](https://github.com/user-attachments/assets/votre-screenshot-ici.png)
+<img width="793" height="264" alt="2025-12-19 16_56_55-OSINTOPIA — Mozilla Firefox" src="https://github.com/user-attachments/assets/2934c881-d49f-4322-8f6b-6e7ad668366d" />
+
 
 ## Fonctionnement technique
 
